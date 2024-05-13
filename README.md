@@ -1,1 +1,1 @@
-This is edwiggle, he wiggles waaaaaaay to much... LOL
+This is Edwiggle, he wiggles waaaaaaay to much... LOL
