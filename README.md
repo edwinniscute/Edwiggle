@@ -1,3 +1,0 @@
-<h1 style="color: Fuchsia;"> This is Edwiggle, he wiggles waaaaaaay to much 
-<head><meta name="viewport" content="width=device-width, minimum-scale=0.1">
-<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://th.bing.com/th/id/R.c2010eb413e9225956fdb7371f4591a5?rik=cSvvCpSJFGL0Cg&amp;riu=http%3a%2f%2fwww.pbh2.com%2fwordpress%2fwp-content%2fuploads%2f2013%2f03%2fcute-puppy-gifs-head-shake.gif&amp;ehk=kqKSHJfhq52zaXSSjI95d64176YaMVJV9G2Z8twWItQ%3d&amp;risl=&amp;pid=ImgRaw&amp;r=0"></body>
